@@ -94,3 +94,8 @@ git rebase --abort
 ```
 git rebase --continue
 ```
+Для просмотра истории всех веток и их коммитов используйте команду:
+```
+git log --all --graph
+```
+ 
