@@ -104,3 +104,8 @@ git log --all --graph
 ```
 git clone <addres>
 ```
+
+## Сброс изменений
+Для сброса изменений в текущей ветке используйте:
+``` 
+git reset <commit hash>
