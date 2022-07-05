@@ -109,3 +109,4 @@ git clone <addres>
 Для сброса изменений в текущей ветке используйте:
 ``` 
 git reset <commit hash>
+```
